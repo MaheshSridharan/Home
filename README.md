@@ -6,6 +6,7 @@ and projects in the following areas of interest.
 ### Interests & Projects
 
 -   **Data Science using R & Python**
+    -   Getting started with R & Python
     -   Exploratory Data Analysis
     -   Data Wrangling
     -   Data Visualization
@@ -15,6 +16,7 @@ and projects in the following areas of interest.
     -   Classification Methods
     -   Ensemble Methods
 -   **Deep Learning & Computer Vision**
+    -   Deep Learning Foundations
     -   Deep Learning using Keras and Tensorflow
     -   Computer Vision
 -   **Software Engineering**
