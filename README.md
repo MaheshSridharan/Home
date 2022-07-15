@@ -5,7 +5,8 @@ and projects in the following areas of interest.
 
 ### Interests & Projects
 
--   **Data Science using R & Python**
+-   [**Data Science using R &
+    Python**](link%20https://github.com/MaheshSridharan/Data-Science-using-R-Python)
     -   Getting started with R & Python
     -   Exploratory Data Analysis
     -   Data Wrangling
