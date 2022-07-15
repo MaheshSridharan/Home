@@ -5,7 +5,8 @@ and projects in the following areas of interest.
 
 ### Interests
 
--   Data Science & Machine Learning
+-   Data Science & Machine Learning \*\* Exploratory Data Analysis using
+    R
 
 -   Data Visualization
 
