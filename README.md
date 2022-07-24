@@ -10,7 +10,7 @@ and projects in the following areas of interest.
     -   Getting started with R & Python
     -   Exploratory Data Analysis
     -   Data Wrangling
-    -   Data Visualization
+    -   [Data Visualization](https://github.com/MaheshSridharan/Data-Science-using-R-Python/tree/main/Data%20Visualisation)
 -   **Machine Learning using R & Python**
     -   Machine Learning Foundations
     -   Regression Methods
