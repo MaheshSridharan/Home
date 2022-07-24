@@ -6,7 +6,7 @@ and projects in the following areas of interest.
 ### Interests & Projects
 
 -   [**Data Science using R &
-    Python**](https://maheshsridharan.github.io/Data-Science-using-R-Python/)
+    Python**](https://github.com/MaheshSridharan/Data-Science-using-R-Python)
     -   Getting started with R & Python
     -   Exploratory Data Analysis
     -   Data Wrangling
@@ -21,9 +21,14 @@ and projects in the following areas of interest.
     -   Deep Learning using Keras and Tensorflow
     -   Computer Vision
 -   **Software Engineering**
-    -   Programming using Java
+    - Introduction to programming in Java
+    - Software Testing
+    - Continuous Integration & Continous Deployment
+    - Refactoring
 -   **Software Architecture**
-    -   Foundations of Software Architecture
-    -   Foundations of Microservices Architecture
+    - Introduction to Software Architecture
+    - Software Architecture Patterns
+    - Microservices Architecture
+    - Event-Driven Architecture
 -   **Google Cloud Platform**
     -   GCP Fundamentals
